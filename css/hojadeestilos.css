@@ -1,0 +1,77 @@
+@charset "utf-8";
+.rosado {
+    background-color: #F6D0EE;
+}
+.gris {
+		background-color: #d8dbe1;}
+
+.amarillo {
+		background-color: #fcefb4;}
+
+.cafe {
+		background-color: #eee4e1;}
+
+.beige {
+		background-color: #f5ebe0;}
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 40px;
+}
+.montserrat2{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.montserrat3{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.suse {
+  font-family: "SUSE", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.suse1 {
+  font-family: "SUSE", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.center-text {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  height: 100%;     
+}
+
+.text-custom {
+  color: #F6D0EE;}
+.text-custom1 {
+  color: #67645e;}
+.text-custom2 {
+  color: #ffffff;}
+
+body {
+  background-color: #f0f0f0; }
+
+.img1:hover {
+	transform: scale(1.1)
+	}
+
+.zoom-on-scroll {
+  transition: transform 0.3s ease;
+	}
